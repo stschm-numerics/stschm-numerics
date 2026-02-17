@@ -13,6 +13,8 @@
 - Python & C++ Grundlagen 
 - GitHub Workflow
 
+**Projekte:**
+- MATLAB Skripte aus meiner Bachelorarbeit verbessern
 
 ## 🛠 Tech Stack
 
