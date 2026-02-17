@@ -1,5 +1,9 @@
 # Hallo, ich bin Stefan Schmidt👋
 
+<p align="center">
+  <img src="./images/myOctoCat.png" width="600" alt="Spocktocat">
+</p>
+
 ## 🎓 Masterstudent der Mathematik | Fokus: Numerik & Optimierung
 
 Ich interessiere mich besonders für die Umsetzung der mathematischen Theorie in effiziente Algorithmen und ihre Implementierung. 
