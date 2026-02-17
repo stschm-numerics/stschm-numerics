@@ -4,14 +4,6 @@
   <img src="./images/myOctoCat.png" width="600" alt="Spocktocat">
 </p>
 
-## 🎓 Masterstudent der Mathematik | Fokus: Numerik & Optimierung
-
-Ich interessiere mich besonders für die Umsetzung der mathematischen Theorie in effiziente Algorithmen und ihre Implementierung. 
-Die Theorie ist das Fundament, aber für mich erst der Anfang. 
-
-Auf GitHub möchte ich meine Programmier-Kenntnisse ausbauen und eigene Projekte teilen.
-
-
 ## 🔭 Aktuelles
 **Interessen:** 
 - Multiphysik-Probleme (z. B. Navier-Stokes-Gleichungen) 
