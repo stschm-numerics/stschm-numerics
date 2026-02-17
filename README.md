@@ -1,7 +1,7 @@
 # Live long and prosper 🖖
 
 <p align="center">
-  <img src="./images/myOctoCat.png" width="600" alt="Spocktocat">
+  <img src="./images/myOctoCat.png" width="200" alt="Spocktocat">
 </p>
 
 ## 🔭 Aktuelles
