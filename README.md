@@ -1,8 +1,15 @@
-# Live long and prosper 🖖
+# Hallo, ich bin Stefan Schmidt! 👋
 
-<p align="center">
-  <img src="./images/myOctoCat.png" width="200" alt="Spocktocat">
-</p>
+## 🧔‍♂️ Über mich
+
+- Masterstudent (Mathematik)
+- Numerik & Optimierung
+- Musiker & Nerd
+
+Ich interessiere mich besonders für die Umsetzung der mathematischen Theorie in effiziente Algorithmen und ihre Implementierung.  
+Auf GitHub möchte ich meine Programmier-Kenntnisse ausbauen und eigene Projekte teilen.  
+
+## „Die Theorie ist das Fundament, aber für mich erst der Anfang.“
 
 ## 🔭 Aktuelles
 **Interessen:** 
@@ -25,6 +32,10 @@
 **Tools:** 
 - LaTeX 
 - Jupyter
+
+## 🤝 Kontakt
+
+[E-Mail](mailto:stefan.schmidt.93@gmx.de)
 <!--
 ---
 
