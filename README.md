@@ -6,7 +6,7 @@
 - Numerik & Optimierung
 - Musiker & Nerd
 
-Ich interessiere mich besonders für die Umsetzung der mathematischen Theorie in effiziente Algorithmen und ihre Implementierung.  
+Ich interessiere mich besonders für die Umsetzung der mathematischen Theorie in effiziente Algorithmen.  
 Auf GitHub möchte ich meine Programmier-Kenntnisse ausbauen und eigene Projekte teilen.  
 
 ## „Die Theorie ist das Fundament, aber für mich erst der Anfang.“
