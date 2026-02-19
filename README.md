@@ -1,6 +1,4 @@
 # Hallo, ich bin Stefan! 👋
-
-## 🧔‍♂ Über mich
 Ich bin Masterstudent der Mathematik mit Vertiefung in Numerik.  
 Die mathematische Theorie ist das Fundament, aber für mich erst der Anfang.  
 Besonders interessiere ich mich für Multiphysik-Probleme und Machine Learning.  
